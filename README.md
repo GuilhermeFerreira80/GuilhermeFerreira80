@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 😎 About me
+## About me
 
 * 🇵🇹 I’m an Informatics Engineering student from Portugal.
 * 🎓 Studying Informatics Engineering at Instituto Superior de Engenharia de Coimbra (ISEC).
@@ -14,7 +14,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,powershell,html,css,matlab,sql,lua" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,powershell,html,css,matlab,mysql,lua" />
 </p>
 
 ### Frameworks & Environments
@@ -39,7 +39,7 @@
 </p>
 
 **Other tools:**
-`Oracle SQL Developer` · `VirtualBox` · `GNS3` · `Cisco Packet Tracer` · `Wireshark` · `Docker`
+`Oracle SQL Developer` · `VirtualBox` · `GNS3` · `Cisco Packet Tracer` · `Wireshark`
 
 ---
 
@@ -66,12 +66,16 @@
 
 ### 💻 University Projects
 
-* **Garden Simulator** — C++ object-oriented programming project.
+* **Garden Simulator** — Object-oriented programming project developed in C++.
 * **Taxi Management Platform** — C/Linux systems programming project.
-* **Artificial Intelligence Projects** — C-based university projects.
-* **Web Applications** — HTML, CSS, JavaScript and React projects.
-* **3D Projects** — Blender projects focused on computer graphics.
-
+* **Artificial Intelligence Projects** — AI-related projects developed in C.
+* **Web Applications** — Web development projects using HTML, CSS, JavaScript and React.
+* **3D Projects** — Computer graphics projects developed using Blender.
+* **Database Project (DHCP DB)** — Oracle SQL Developer database for managing DHCP server information.
+* **Structured Cabling Building Project** — Cisco Packet Tracer project focused on designing the cabling infrastructure of a company.
+* **Data Forwarding Project** — GNS3 project focused on configuring and analyzing data forwarding in a network environment.
+* **GNS3 Cybersecurity Project** — Implementation and analysis of an Intrusion Detection System (IDS) using Suricata (OnionSecurity).
+* **Roadside Message Sign Manager** — Win32 API programming project.
 ---
 
 ## 📚 Currently Learning
