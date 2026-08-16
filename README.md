@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**GuilhermeFerreira80/GuilhermeFerreira80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎 About me
 
-Here are some ideas to get you started:
+* 🇵🇹 I’m an Informatics Engineering student from Portugal.
+* 🎓 Studying Informatics Engineering at Instituto Superior de Engenharia de Coimbra (ISEC).
+* 🔐 Currently focused on **Cybersecurity, Networking, Cloud Engineering and Systems Administration**.
+* 💻 Building practical projects to develop my skills beyond university.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Loadout
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,powershell,html,css,matlab,sql,lua" />
+</p>
+
+### Frameworks & Environments
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,linux,windows,docker,bootstrap,kubernetes" />
+</p>
+
+### Networking & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+**Networking:**
+`GNS3` · `Cisco Packet Tracer` · `Cisco IOS` · `Wireshark` · `Tailscale` · `TCP/IP` · `DNS` · `DHCP` · `SSH` · `Routing & Switching` · `Network Security`
+
+### Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,clion,pycharm,blender" />
+</p>
+
+**Other tools:**
+`Oracle SQL Developer` · `VirtualBox` · `GNS3` · `Cisco Packet Tracer` · `Wireshark` · `Docker`
+
+---
+
+## 🚀 Projects
+
+### ☁️ Cloud & Infrastructure
+
+* **Nextcloud Server** — Self-hosted cloud storage using Docker.
+* **Tailscale Network** — Secure remote access and private networking.
+* **Cloud Resume Challenge** — Cloud-hosted portfolio with serverless components and CI/CD.
+* **Linux Server** — Server administration, Docker, networking and services.
+
+### 🌐 Networking & Systems
+
+* **GNS3 Labs** — Network configuration, routing, SSH, authentication and traffic analysis.
+* **Cisco Packet Tracer Labs** — Network design, routing, switching and device configuration.
+* **Virtualized Environments** — Linux virtual machines and networked environments.
+* **Network Security Labs** — Traffic analysis, secure communication and network security concepts.
+
+### 🔐 Cybersecurity
+
+* **Cybersecurity Lab** — Practical experiments involving networking, Linux, system security and attack/defense concepts.
+* **Network Security** — Firewalls, traffic analysis, authentication and secure communication.
+
+### 💻 University Projects
+
+* **Garden Simulator** — C++ object-oriented programming project.
+* **Taxi Management Platform** — C/Linux systems programming project.
+* **Artificial Intelligence Projects** — C-based university projects.
+* **Web Applications** — HTML, CSS, JavaScript and React projects.
+* **3D Projects** — Blender projects focused on computer graphics.
+
+---
+
+## 📚 Currently Learning
+
+* 🔐 Cybersecurity
+* 🌐 Computer Networks
+* 🐧 Linux & System Administration
+* ☁️ Cloud Engineering
+* 🐳 Docker & Containerization
+* 🛡️ Network Security
+* 🔧 Cisco Networking
+* ⚙️ CI/CD & DevOps
+* 💻 Bash & Linux Scripting
+
+---
+
+## 🎯 Goals
+
+My goal is to build a strong practical foundation in **Cybersecurity, Cloud, Networking and Infrastructure**, while developing real-world projects and continuously improving my technical skills.
+
