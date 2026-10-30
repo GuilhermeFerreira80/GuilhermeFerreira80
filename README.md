@@ -3,8 +3,8 @@
 ## About me
 
 * 🇵🇹 I’m an Informatics Engineering student from Portugal.
-* 🎓 Studying Informatics Engineering at Instituto Superior de Engenharia de Coimbra (ISEC).
-* 🔐 Currently focused on **Cybersecurity, Networking, Cloud Engineering and Systems Administration**.
+* 🎓 Studying Informatics Engineering at Instituto Superior de Engenharia de Coimbra (ISEC-UPC).
+* 🔐 Currently focused on learning **Cybersecurity, Networking, Cloud Engineering and Systems Administration**.
 * 💻 Building practical projects to develop my skills beyond university.
 
 ---
