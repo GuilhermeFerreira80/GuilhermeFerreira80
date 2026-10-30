@@ -2,10 +2,10 @@
 
 ## About me
 
-* 🇵🇹 I’m an Informatics Engineering student from Portugal.
-* 🎓 Studying Informatics Engineering at Instituto Superior de Engenharia de Coimbra (ISEC-UPC).
-* 🔐 Currently focused on learning **Cybersecurity, Networking, Cloud Engineering and Systems Administration**.
-* 💻 Building practical projects to develop my skills beyond university.
+- 🇵🇹 Informatics Engineering student from Portugal.
+- 🎓 Studying at Instituto Superior de Engenharia de Coimbra (**ISEC**).
+- 🔐 Focused on **Cybersecurity, Networking, Cloud Engineering & Systems Administration**.
+- 🛠️ Actively maintaining a personal homelab and building real-world projects alongside my degree.
 
 ---
 
@@ -14,85 +14,72 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,powershell,html,css,matlab,mysql,lua" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,js,html,css,mysql,matlab,lua" />
 </p>
 
-### Frameworks & Environments
+### Infrastructure, Containers & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,linux,windows,docker,bootstrap,kubernetes" />
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,aws,azure,kubernetes" />
 </p>
 
-### Networking & Infrastructure
+### Networking & Security
+
+`GNS3` · `Cisco Packet Tracer` · `Cisco IOS` · `Wireshark` · `Suricata IDS` · `Tailscale` · `TCP/IP` · `DNS/DHCP` · `SSH` · `Reverse Proxies` · `Firewalls`
+
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,portainer,vscode,visualstudio,clion,pycharm" />
 </p>
 
-**Networking:**
-`GNS3` · `Cisco Packet Tracer` · `Cisco IOS` · `Wireshark` · `Tailscale` · `TCP/IP` · `DNS` · `DHCP` · `SSH` · `Routing & Switching` · `Network Security`
-
-### Tools & IDEs
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,clion,pycharm,blender" />
-</p>
-
-**Other tools:**
-`Oracle SQL Developer` · `VirtualBox` · `GNS3` · `Cisco Packet Tracer` · `Wireshark`
+**Other tools:** `Oracle SQL Developer` · `Netdata` · `VirtualBox`· `Proxmox VE`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ☁️ Cloud & Infrastructure
+### 🎓 Academic Projects (ISEC)
 
-* **Nextcloud Server** — Self-hosted cloud storage using Docker.
-* **Tailscale Network** — Secure remote access and private networking.
-* **Cloud Resume Challenge** — Cloud-hosted portfolio with serverless components and CI/CD.
-* **Linux Server** — Server administration, Docker, networking and services.
+- **[GNS3 IDS Implementation](https://github.com/GuilhermeFerreira80/GNS3-IDS-Implementation)** — Network security deployment analyzing and detecting threats using Suricata (Security Onion) within virtualized topologies.
+- **[Data Forwarding & Routing Analysis](https://github.com/GuilhermeFerreira80/Data-Forwarding-Routing-Analysis)** — GNS3 project evaluating packet routing, switching convergence, and protocol behaviors.
+- **Structured Cabling Architecture** — Cisco Packet Tracer design defining hierarchical network and physical cabling infrastructure for an enterprise setup.
+- **DHCP Management Database** — Relational database system modeled in Oracle SQL Developer for tracking and allocating DHCP lease pools.
+- **Taxi Management Platform** — Multi-process systems programming project in C on Linux using IPC, signals, and shared memory.
+- **Roadside Message Sign Manager** — Desktop management utility written in C/C++ leveraging the Win32 API.
+- **Garden Simulator** — Object-oriented architecture simulator developed in C++.
+- **Academic Web & AI Applications** — Practical implementations ranging from React/JS web platforms to foundational AI search algorithms in C.
 
-### 🌐 Networking & Systems
-
-* **GNS3 Labs** — Network configuration, routing, SSH, authentication and traffic analysis.
-* **Cisco Packet Tracer Labs** — Network design, routing, switching and device configuration.
-* **Virtualized Environments** — Linux virtual machines and networked environments.
-* **Network Security Labs** — Traffic analysis, secure communication and network security concepts.
-
-### 🔐 Cybersecurity
-
-* **Cybersecurity Lab** — Practical experiments involving networking, Linux, system security and attack/defense concepts.
-* **Network Security** — Firewalls, traffic analysis, authentication and secure communication.
-
-### 💻 University Projects
-
-* **Garden Simulator** — Object-oriented programming project developed in C++.
-* **Taxi Management Platform** — C/Linux systems programming project.
-* **Artificial Intelligence Projects** — AI-related projects developed in C.
-* **Web Applications** — Web development projects using HTML, CSS, JavaScript and React.
-* **3D Projects** — Computer graphics projects developed using Blender.
-* **Database Project (DHCP DB)** — Oracle SQL Developer database for managing DHCP server information.
-* **Structured Cabling Building Project** — Cisco Packet Tracer project focused on designing the cabling infrastructure of a company.
-* **Data Forwarding Project** — GNS3 project focused on configuring and analyzing data forwarding in a network environment.
-* **GNS3 Cybersecurity Project** — Implementation and analysis of an Intrusion Detection System (IDS) using Suricata (OnionSecurity).
-* **Roadside Message Sign Manager** — Win32 API programming project.
 ---
 
-## 📚 Currently Learning
+### 🖥️ Self-Hosted Homelab & Infrastructure
 
-* 🔐 Cybersecurity
-* 🌐 Computer Networks
-* 🐧 Linux & System Administration
-* ☁️ Cloud Engineering
-* 🐳 Docker & Containerization
-* 🛡️ Network Security
-* 🔧 Cisco Networking
-* ⚙️ CI/CD & DevOps
-* 💻 Bash & Linux Scripting
+Self-hosted production environment running on Linux and managed via **Docker & Portainer**:
+
+- **Edge Routing & Ingress:** Secure public exposure without port-forwarding via **Cloudflare Tunnels**, reverse-proxied with **Nginx Proxy Manager** (SSL/TLS automated management).
+- **Storage & Productivity:** Private cloud via **Nextcloud** backed by a dedicated **MariaDB** container.
+- **Monitoring & Metrics:** Real-time system performance and hardware telemetry through **Netdata**.
+- **Internal Services & Testing:** Containerized **Docker Mailserver** for SMTP/IMAP protocol testing and dedicated game-server instances.
+- **Overlay Networking:** Mesh VPN via **Tailscale** for direct, encrypted node-to-node administration.
+
+---
+
+### ☁️ Cloud & Practical Labs
+
+- **Cloud Resume Challenge** — Serverless portfolio deployed on public cloud with CI/CD deployment pipelines.
+- **Cisco & GNS3 Infrastructure Labs** — End-to-end network topologies featuring VLAN segmentation, inter-VLAN routing, OSPF, and hardened SSH access.
+
+---
+
+## 📚 Currently Focusing On
+
+- 🔐 Defensive Cybersecurity & Intrusion Detection (Suricata / SIEM)
+- 🌐 Enterprise Routing, Switching & Network Hardening
+- 🐧 Linux Systems Administration & Automated Scripting (Bash)
+- ⚙️ CI/CD Pipelines & Infrastructure as Code (IaC)
 
 ---
 
 ## 🎯 Goals
 
-My goal is to build a strong practical foundation in **Cybersecurity, Cloud, Networking and Infrastructure**, while developing real-world projects and continuously improving my technical skills.
-
+Building a solid technical foundation bridging **Systems Administration, Networking, and Cybersecurity**, with a strong bias toward hands-on implementation and secure infrastructure design.
