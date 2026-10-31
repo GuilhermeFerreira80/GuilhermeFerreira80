@@ -43,11 +43,11 @@
 
 - **[GNS3 IDS Implementation](https://github.com/GuilhermeFerreira80/GNS3-IDS-Implementation)** — Network security deployment analyzing and detecting threats using Suricata (Security Onion) within virtualized topologies.
 - **[Data Forwarding & Routing Analysis](https://github.com/GuilhermeFerreira80/Data-Forwarding-Routing-Analysis)** — GNS3 project evaluating packet routing, switching convergence, and protocol behaviors.
-- **Structured Cabling Architecture** — Cisco Packet Tracer design defining hierarchical network and physical cabling infrastructure for an enterprise setup.
-- **DHCP Management Database** — Relational database system modeled in Oracle SQL Developer for tracking and allocating DHCP lease pools.
-- **Taxi Management Platform** — Multi-process systems programming project in C on Linux using IPC, signals, and shared memory.
-- **Roadside Message Sign Manager** — Desktop management utility written in C/C++ leveraging the Win32 API.
-- **Garden Simulator** — Object-oriented architecture simulator developed in C++.
+- **[Structured Cabling Architecture](https://github.com/GuilhermeFerreira80/Structured-Cabling-Architecture)** — Cisco Packet Tracer design defining hierarchical network and physical cabling infrastructure for an enterprise setup.
+- **[DHCP Management Database](https://github.com/GuilhermeFerreira80/DHCP-Management-Database)** — Relational database system modeled in Oracle SQL Developer for tracking and allocating DHCP lease pools.
+- **[Taxi Management Platform](https://github.com/GuilhermeFerreira80/Taxi-Management-Platform)** — Multi-process systems programming project in C on Linux using IPC, signals, and shared memory.
+- **[Roadside Message Sign Manager](https://github.com/GuilhermeFerreira80/Roadside-Message-Sign-Manager)** — Desktop management utility written in C/C++ leveraging the Win32 API.
+- **[Garden Simulator](https://github.com/GuilhermeFerreira80/Garden-Simulator)** — Object-oriented architecture simulator developed in C++.
 - **Academic Web & AI Applications** — Practical implementations ranging from React/JS web platforms to foundational AI search algorithms in C.
 
 ---
