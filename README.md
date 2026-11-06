@@ -65,21 +65,16 @@ Self-hosted production environment running on Linux and managed via **Docker & P
 ---
 
 ### ☁️ Cloud & Practical Labs
-
-- **Cloud Resume Challenge** — Serverless portfolio deployed on public cloud with CI/CD deployment pipelines.
-- **Cisco & GNS3 Infrastructure Labs** — End-to-end network topologies featuring VLAN segmentation, inter-VLAN routing, OSPF, and hardened SSH access.
-
+- **Cloud Resume Challenge** — Serverless portfolio deployed on public cloud with CI/CD deployment pipelines [WEBSITE-Portfolio](www.guiferreira.xyz).
 ---
 
 ## 📚 Currently Focusing On
 
-- 🔐 Defensive Cybersecurity & Intrusion Detection (Suricata / SIEM)
-- 🌐 Enterprise Routing, Switching & Network Hardening
-- 🐧 Linux Systems Administration & Automated Scripting (Bash)
-- ⚙️ CI/CD Pipelines & Infrastructure as Code (IaC)
+- 🔐 Defensive Cybersecurity & Intrusion Detection
+- 🌐 Learning more about Cloud Engineering
 
 ---
 
 ## 🎯 Goals
 
-Building a solid technical foundation bridging **Systems Administration, Networking, and Cybersecurity**, with a strong bias toward hands-on implementation and secure infrastructure design.
+Building a solid technical foundation bridging **Systems Administration, Networking, Cloud, and Cybersecurity**.
