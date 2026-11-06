@@ -65,7 +65,7 @@ Self-hosted production environment running on Linux and managed via **Docker & P
 ---
 
 ### ☁️ Cloud & Practical Labs
-- **Cloud Resume Challenge** — Serverless portfolio deployed on public cloud with CI/CD deployment pipelines [WEBSITE-Portfolio](www.guiferreira.xyz).
+- **Cloud Resume Challenge** — Serverless portfolio deployed on public cloud with CI/CD deployment pipelines [WEBSITE-Portfolio](https://www.guiferreira.xyz).
 ---
 
 ## 📚 Currently Focusing On
